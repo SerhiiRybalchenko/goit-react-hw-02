@@ -6,18 +6,24 @@
     margin-bottom: 32px;
   }
   .btn-options {
-    background: silver;
-    color: #0000;
-    text-shadow: #0000;
-    border: none;
-    transition: 0.3s;
+    background-color: hsl(120, 1%, 56%);
+    border: none; 
+    color: white; 
+    padding: 15px 32px; 
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+    border-radius: 12px; 
+    transition: background-color 0.3s, transform 0.3s;
   }
   
-  .btn-options:active {
-    text-shadow: none;
-    color: #fff;
-    box-shadow:  #0005;
-    transition: 0s;
+  .btn-options:active,
+  .btn-options:hover {
+    background-color: hsl(120, 9%, 19%);
+    transform: scale(1.1);
   }
   
   .btn-options {
