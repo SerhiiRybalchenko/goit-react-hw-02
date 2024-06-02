@@ -18,7 +18,7 @@
   margin: 0;
   cursor: pointer;
   border-radius: 12px;
-  transition: box-shadow 0.3s, font-size 0.3s, transform 0.3s;
+  transition: box-shadow 0.3s;
   font-weight: bold;
 }
 
