@@ -1,7 +1,7 @@
 .wrapper {
     padding: 24px;
     border-radius: 10px;
-    background-color: hsl(0, 0%, 80%);
+    background-color: silver;
   }
   .feedback-list {
     display: flex;
