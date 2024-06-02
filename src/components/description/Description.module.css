@@ -1,13 +1,13 @@
 .wrapper {
     padding: 24px;
-    border-radius: 10px;
-    background-color: hsl(0, 0%, 80%);
+    border-radius: 20px;
+    background-color: rgb(207, 203, 203);
     margin-bottom: 32px;
   }
   .title {
     text-align: center;
-    font-size: 64px;
-    color: silver;
+    font-size: 44px;
+    color: rgb(0, 0, 0);
   
   }
   .text {
