@@ -12,7 +12,7 @@ ul {
   text-align: center;
 }
 .container {
-  max-width: 800px;
+  max-width: 600px;
   padding: 24px;
   margin: 0 auto;
   background-color: #f5f5f5;
@@ -21,6 +21,5 @@ ul {
 }
 .wrapper {
   padding: 24px;
-  border-radius: 2px;
-  background-color: hsl(0, 0%, 80%);
+  background-color: rgb(134, 133, 133);
 }
